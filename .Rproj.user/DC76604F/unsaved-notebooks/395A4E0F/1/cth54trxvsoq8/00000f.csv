@@ -1,0 +1,8 @@
+"0","ELSOC_Ola6$percep_evalucacion_barrio <- car::recode(ELSOC_Ola6$satis_seguridad, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_seguridad <- car::recode(ELSOC_Ola6$satis_seguridad, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_conectividad <- car::recode(ELSOC_Ola6$satis_conectividad, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_areas_verdes <- car::recode(ELSOC_Ola6$satis_areas_verdes , ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_limpieza_barrio <- car::recode(ELSOC_Ola6$satis_limpieza_barrio, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_colegio_calidad <- car::recode(ELSOC_Ola6$satis_colegio_calidad, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_area_comercio <- car::recode(ELSOC_Ola6$satis_area_comercio, ""c(-999,-888)=NA"")"
+"0","ELSOC_Ola6$satis_cercania_familia <- car::recode(ELSOC_Ola6$satis_cercania_familia, ""c(-999,-888)=NA"")"

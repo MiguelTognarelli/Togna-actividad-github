@@ -1,0 +1,2 @@
+"0","ELSOC_Ola6 %>% select(satis_seguridad:satis_cercania_familia) %>% "
+"0","  plot_stackfrq() + theme(legend.position=""bottom"")"
